@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>请叫我程序汪</title>
+  <icon>https://www.gravatar.com/avatar/53e4ae1966a4368e6a6e46ca8869d620</icon>
+  <subtitle>Do what you want to do</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://michelfeng.github.io/"/>
+  <updated>2017-11-17T10:34:59.000Z</updated>
+  <id>http://michelfeng.github.io/</id>
+  
+  <author>
+    <name>Michel</name>
+    <email>fengzhongshuang@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://michelfeng.github.io/2017/11/17/about/"/>
+    <id>http://michelfeng.github.io/2017/11/17/about/</id>
+    <published>2017-11-17T10:31:10.000Z</published>
+    <updated>2017-11-17T10:34:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>lksdflasdjflkasd</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;lksdflasdjflkasd&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何编写一个依赖注入容器</title>
+    <link href="http://michelfeng.github.io/2017/11/17/How-to-create-a-DI-container/"/>
+    <id>http://michelfeng.github.io/2017/11/17/How-to-create-a-DI-container/</id>
+    <published>2017-11-17T09:21:59.000Z</published>
+    <updated>2017-11-17T10:37:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-什么是依赖注入？"><a href="#1-什么是依赖注入？" class="headerlink" title="1.什么是依赖注入？"></a>1.什么是依赖注入？</h2><pre><code>blabla blabla....</code></pre><h2 id="2-为什么需要依赖注入"><a href="#2-为什么需要依赖注入" class="headerlink" title="2.为什么需要依赖注入"></a>2.为什么需要依赖注入</h2><pre><code>blabla blabla....</code></pre><h2 id="3-如何实现依赖注入"><a href="#3-如何实现依赖注入" class="headerlink" title="3.如何实现依赖注入"></a>3.如何实现依赖注入</h2><pre><code>blabla blabla....   </code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;1-什么是依赖注入？&quot;&gt;&lt;a href=&quot;#1-什么是依赖注入？&quot; class=&quot;headerlink&quot; title=&quot;1.什么是依赖注入？&quot;&gt;&lt;/a&gt;1.什么是依赖注入？&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;blabla blabla....
+&lt;/code&gt;&lt;/pre
+      
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://michelfeng.github.io/categories/Diary/"/>
+    
+    
+      <category term="PS3" scheme="http://michelfeng.github.io/tags/PS3/"/>
+    
+      <category term="Games" scheme="http://michelfeng.github.io/tags/Games/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Welcome</title>
+    <link href="http://michelfeng.github.io/2017/11/17/hello-world/"/>
+    <id>http://michelfeng.github.io/2017/11/17/hello-world/</id>
+    <published>2017-11-17T09:06:33.000Z</published>
+    <updated>2017-11-17T09:39:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
